@@ -1,2 +1,2 @@
 #!/bin/bash
-"ibase=water obase=bestchol WATER+STIR"
+result=$((water_value + stir_value))
